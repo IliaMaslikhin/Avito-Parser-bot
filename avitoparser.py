@@ -81,7 +81,7 @@ class AvitoParser:
 
 
 # Конфигурация бота
-TOKEN = '6567195777:AAH6DZv-jRE8_hHdj8qeDXaTBU3VLy30lSU'
+TOKEN = ''
 bot = telebot.TeleBot(TOKEN)
 user_data = {}
 
